@@ -53,7 +53,7 @@
 
 ## Tampilan
 
-
+![Screenshot 2023-11-05 145742](https://github.com/taufikalbani13/Lab1web/assets/115517181/911e523f-cd86-4a58-9d70-386940461de9)
 
 3. Jumbroton adalah satu element yang di buat untuk bertujuan membuat semacam pengumuman konten khusus atau informasi tentang halaman web
 ```py
@@ -72,7 +72,7 @@
 ```
 ## Tampilan
 
-
+![Screenshot 2023-11-05 150446](https://github.com/taufikalbani13/Lab1web/assets/115517181/17d6338c-0105-4b8b-90cd-49f4028d9dc5)
 
 4. Card 1 untuk membuat body konten menggunakan card
 ```py
@@ -128,7 +128,7 @@ footer {
 ```
 ## Tampilan
 
-
+![Screenshot 2023-11-05 150632](https://github.com/taufikalbani13/Lab1web/assets/115517181/0cee43a3-805b-4c96-ba46-586f56ec9473)
 
 6. List group menambahkan widget disamping kanan card 1
 ```py
@@ -155,33 +155,48 @@ footer {
 </div>
 </div>
 ```
+## Tampilan
+
+![Screenshot 2023-11-05 150724](https://github.com/taufikalbani13/Lab1web/assets/115517181/10f4569e-963f-49ca-b7e9-becfc91dd428)
+
 7. Card 2
 ```py
-<!--LIST GROUP-->
-  <div class="col">
-  <div class="list-group">
-    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-      Widget Header
-    </a>
-    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
-    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
-    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
-    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
-    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+  <!--CARDS 2-->
+  <div class="mt-3 mb-5">
+    <h2>First Featurette Heading</h2>
+    <div class="row no-gutters">
+      <div class="col-md-3">
+        <img src="150.jpg" class="card-img-top rounded-square" alt="...">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.</p>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="list-group mt-3">
-    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-      Widget Text
-    </a>
-    <span class="list-group-item list-group-item-action">Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu.
-      Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.</span>
+<hr>
+  <div class="mt-5">
+    <h2>First Featurette Heading</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <div class="card-body">
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.</p>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <img src="150.jpg" class="card-img-top rounded-square" alt="...">
+      </div>
+    </div>
   </div>
-</div>  
+
 </div>
-</div>
+<div class="p-2">
 ```
 ## Tampilan
 
-
+![Screenshot 2023-11-05 150701](https://github.com/taufikalbani13/Lab1web/assets/115517181/fc6e69e3-d5ce-4b14-99d0-fa5ff6d6dfa3)
 
 8. Tampilan full
+
+  ![screenshot-127 0 0 1_5500-2023 11 05-15_07_37](https://github.com/taufikalbani13/Lab1web/assets/115517181/4046393b-b4c9-42d3-bcd9-cb16576d2778) 
